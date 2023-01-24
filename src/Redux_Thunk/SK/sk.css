@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter&family=Mate+SC&family=Raleway&family=Roboto:wght@500&family=Source+Sans+Pro:wght@300;600&family=Squada+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;500;600;700&family=Josefin+Sans:wght@200;300&family=Josefin+Slab:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Bitter", serif;
+}
+
+body {
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-image: linear-gradient(#fcf5f5, #eff4fd); */
+}
+
+.header-div {
+    width: 218vh;
+    height: 60px;
+    padding: 10px;
+    background-color: paleturquoise;
+    font-size: 40px;
+    font-family: "Josefin Sans";
+}
+
+.content-div {
+    margin: auto;
+    padding: 10px;
+    width: 50vh;
+    background-color: paleturquoise;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+input{
+    font-size: 18px;
+    padding: 5px;
+    width:300px;
+    border-radius: 10px;
+    border: none;
+}
+textarea{
+    font-size: 18px;
+    padding: 5px;
+    width:300px;
+    border-radius: 10px;
+    border: none;
+}
+.button-div{
+    font-size: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    border: none;
+    margin-left: 5px;
+}
+.button-div:hover{
+    background-color: rgb(40, 141, 141);
+    cursor: pointer;
+}
+
+.note-div {
+    padding: 20px;
+    width: 30vh;
+    background-color: paleturquoise;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    margin: auto;
+    margin-top: 50vh;
+}
+
