@@ -1,0 +1,118 @@
+{
+  "customers": [
+    {
+      "id": 3,
+      "name": "Vikas Sharmaa",
+      "email": "ideex2@arstechnica.com",
+      "contact": "5532191883"
+    },
+    {
+      "id": 4,
+      "name": "Neelam",
+      "email": "jraspin3@bluehost.com",
+      "contact": "4758442371"
+    },
+    {
+      "id": 5,
+      "name": "Shankar",
+      "email": "lalker4@imdb.com",
+      "contact": "1278965114"
+    },
+    {
+      "id": 6,
+      "name": "Prachi",
+      "email": "rhenrichsen5@prnewswire.com",
+      "contact": "4564710699"
+    },
+    {
+      "id": 7,
+      "name": "Kashmira",
+      "email": "ksmallpeice6@free.fr",
+      "contact": "1032565209"
+    },
+    {
+      "id": 8,
+      "name": "Kundan",
+      "email": "ipeever7@sphinn.com",
+      "contact": "6930272485"
+    },
+    {
+      "id": 9,
+      "name": "Abhi",
+      "email": "dgatley8@sogou.com",
+      "contact": "0670525944"
+    },
+    {
+      "id": 10,
+      "name": "Shreesha",
+      "email": "sbyatt9@ucoz.com",
+      "contact": "4776902842"
+    },
+    {
+      "id": 11,
+      "name": "Bear",
+      "email": "bjadosa@clickbank.net",
+      "contact": "9497771991"
+    },
+    {
+      "id": 12,
+      "name": "Dunn",
+      "email": "dcapitanob@acquirethisname.com",
+      "contact": "3717649922"
+    },
+    {
+      "id": 13,
+      "name": "Hollie",
+      "email": "hrenisonc@census.gov",
+      "contact": "6626292978"
+    },
+    {
+      "id": 14,
+      "name": "Gipsy",
+      "email": "gloaldayd@nydailynews.com",
+      "contact": "6764338078"
+    },
+    {
+      "id": 15,
+      "name": "Margarette",
+      "email": "mbreae@live.com",
+      "contact": "5430169145"
+    },
+    {
+      "id": 16,
+      "name": "Allis",
+      "email": "astrittonf@lycos.com",
+      "contact": "0677047916"
+    },
+    {
+      "id": 17,
+      "name": "Annabal",
+      "email": "afraulog@engadget.com",
+      "contact": "0435954377"
+    },
+    {
+      "id": 18,
+      "name": "Ewan",
+      "email": "eraymenth@themeforest.net",
+      "contact": "0195680391"
+    },
+    {
+      "id": 19,
+      "name": "Annabelle",
+      "email": "akyngdoni@narod.ru",
+      "contact": "7769848652"
+    },
+    {
+      "id": 20,
+      "name": "Feodora",
+      "email": "fornellsj@wordpress.org",
+      "contact": "3376850410"
+    },
+    {
+      "id": 21,
+      "name": "sayali",
+      "email": "bhosalesairaj07@gmail.com",
+      "contact": "9876543210"
+    }
+  ]
+}
