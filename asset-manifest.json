@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customer_details_using_thunk/static/css/main.b23f0f53.css",
+    "main.js": "/customer_details_using_thunk/static/js/main.ed62e761.js",
+    "index.html": "/customer_details_using_thunk/index.html",
+    "main.b23f0f53.css.map": "/customer_details_using_thunk/static/css/main.b23f0f53.css.map",
+    "main.ed62e761.js.map": "/customer_details_using_thunk/static/js/main.ed62e761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23f0f53.css",
+    "static/js/main.ed62e761.js"
+  ]
+}
